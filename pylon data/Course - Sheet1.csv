@@ -1,0 +1,70 @@
+semester,courseName,courseCode,creditHour
+1,Programming Fundamentals,CS101,3
+1,Programming Fundamentals Lab,CS102,1
+1,Islamiat and religious studies,CS103,3
+1,English,CS104,3
+1,Applied Physics,CS105,3
+1,Calculus 1,CS106,3
+1,English Lab,CS107,1
+1,Intro to communication technology,CS108,1
+2,Communication and Presentation Skills,CS109,3
+2,Communication and Presentation Skills Lab,CS110,1
+2,Object Oriented Programming,CS111,3
+2,Object Oriented Programming Lab,CS112,1
+2,Pakistan Studies,CS113,3
+2,Differiantial Equations,CS114,3
+2,Digital Logic Design,CS115,3
+2,Digital Logic Design Lab,CS116,1
+3,Data Structure,CS117,3
+3,Data Structure Lab,CS118,1
+3,Computer Organization And Assembly Language,CS119,3
+3,Computer Organization And Assembly Language Lab,CS120,1
+3,Discrete Structure,CS121,3
+3,Psychology,CS122,3
+3,Finance and Accounting,CS123,3
+3,Marketing Managment,CS124,3
+4,Operating System,CS125,3
+4,Operating System Lab,CS126,1
+4,Probability and Statistics,CS127,3
+4,Theory of Automata,CS128,3
+4,Psychology,CS129,3
+4,Micro Economics,CS130,3
+4,Numerical Methods,CS131,3
+4,Operations Research,CS132,3
+4,Arabic Language,CS133,3
+5,Database System,CS134,3
+5,Database Lab,CS142,1
+5,Object Oriented Analysis Of Algorithm,CS135,3
+5,Design and Analysis Of Algorithms,CS136,3
+5,Computer Architecture,CS137,3
+5,Fundamentals Of Managment,CS138,3
+5,Communication For Managers,CS139,3
+5,Operations Research,CS140,3
+5,Directed Reading Economics,CS141,3
+6,Computer Networks,CS143,3
+6,Computer Networks Lab,CS144,1
+6,Software Engineering,CS145,3
+6,Artificial Inteligence,CS146,3
+6,Technical and Business Writing,CS147,3
+6,Data Sciences,CS148,3
+6,Computer Vision,CS149,3
+6,Computer Graphics,CS150,3
+6,Informative Retrival,CS151,3
+7,Human Computer Interaction,CS153,3
+7,Professional Issues,CS154,3
+7,Information Security,CS155,3
+7,Final Year Project 1,CS156,3
+7,Intro. to Software Project Managment,CS157,3
+7,Data Science,CS158,3
+7,Intro. to Cloud Computing,CS159,3
+7,Informative Processing Techniques,CS160,3
+7,Design Detects Restructing,CS161,3
+8,Final Year Project 2,CS163,3
+8,Professional Issues in IT,CS164,3
+8,Data Mining,CS165,3
+8,Web Programming,CS166,3
+8,Intro. to Block Chain,CS167,3
+8,Software Testing,CS168,3
+8,Internet Of Things,CS169,3
+8,Computer Vision,CS170,3
+8,Compiler Construction,CS171,3

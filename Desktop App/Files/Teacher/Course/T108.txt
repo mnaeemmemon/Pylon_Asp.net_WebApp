@@ -1,0 +1,4 @@
+Arabic language
+Database system
+Design and analysis of algorithms
+Object oriented analysis of algorithms

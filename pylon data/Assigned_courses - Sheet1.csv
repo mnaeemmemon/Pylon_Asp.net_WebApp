@@ -1,0 +1,143 @@
+teacherID,course,section,semester
+T101,Programming Fundamentals,A,NULL
+T101,Programming Fundamentals,B,NULL
+T101,Communication and Presentation Skills,A,NULL
+T101,Communication and Presentation Skills,B,NULL
+T101,Data Structure,A,NULL
+T101,Data Structure,B,NULL
+T101,Operating System,A,NULL
+T101,Operating System,B,NULL
+T101,Database System,A,NULL
+T101,Database System,B,NULL
+T101,Computer Networks,A,NULL
+T101,Computer Networks,B,NULL
+T101,Human Computer Interaction,A,NULL
+T101,Human Computer Interaction,B,NULL
+T101,Final Year Project 2,A,NULL
+T101,Final Year Project 2,B,NULL
+T102,Programming Fundamentals Lab,A,NULL
+T102,Programming Fundamentals Lab,B,NULL
+T102,Communication and Presentation Skills Lab,A,NULL
+T102,Communication and Presentation Skills Lab,B,NULL
+T102,Data Structure Lab,A,NULL
+T102,Data Structure Lab,B,NULL
+T102,Operating System Lab,A,NULL
+T102,Operating System Lab,B,NULL
+T102,Object Oriented Analysis Of Algorithm,A,NULL
+T102,Object Oriented Analysis Of Algorithm,B,NULL
+T102,Computer Networks Lab,A,NULL
+T102,Computer Networks Lab,B,NULL
+T102,Professional Issues,A,NULL
+T102,Professional Issues,B,NULL
+T102,Professional Issues in IT,A,NULL
+T102,Professional Issues in IT,B,NULL
+T103,Islamiat and religious studies,A,NULL
+T103,Islamiat and religious studies,B,NULL
+T103,Object Oriented Programming,A,NULL
+T103,Object Oriented Programming,B,NULL
+T103,Computer Organization And Assembly Language,A,NULL
+T103,Computer Organization And Assembly Language,B,NULL
+T103,Probability and Statistics,A,NULL
+T103,Probability and Statistics,B,NULL
+T103,Design and Analysis Of Algorithms,A,NULL
+T103,Design and Analysis Of Algorithms,B,NULL
+T103,Software Engineering,A,NULL
+T103,Software Engineering,B,NULL
+T103,Information Security,A,NULL
+T103,Information Security,B,NULL
+T103,Data Mining,A,NULL
+T103,Data Mining,B,NULL
+T104,English,A,NULL
+T104,English,B,NULL
+T104,Object Oriented Programming Lab,A,NULL
+T104,Object Oriented Programming Lab,B,NULL
+T104,Computer Organization And Assembly Language Lab,A,NULL
+T104,Computer Organization And Assembly Language Lab,B,NULL
+T104,Theory of Automata,A,NULL
+T104,Theory of Automata,B,NULL
+T104,Computer Architecture,A,NULL
+T104,Computer Architecture,B,NULL
+T104,Artificial Inteligence,A,NULL
+T104,Artificial Inteligence,B,NULL
+T104,Final Year Project 1,A,NULL
+T104,Final Year Project 1,B,NULL
+T104,Web Programming,A,NULL
+T104,Web Programming,B,NULL
+T105,Applied Physics,A,NULL
+T105,Applied Physics,B,NULL
+T105,Pakistan Studies,A,NULL
+T105,Pakistan Studies,B,NULL
+T105,Discrete Structure,A,NULL
+T105,Discrete Structure,B,NULL
+T105,Fundamentals Of Managment,A,NULL
+T105,Fundamentals Of Managment,B,NULL
+T105,Technical and Business Writing,A,NULL
+T105,Technical and Business Writing,B,NULL
+T105,Intro. to Software Project Managment,A,NULL
+T105,Intro. to Software Project Managment,B,NULL
+T105,Psychology,A,NULL
+T105,Psychology,B,NULL
+T105,Intro. to Block Chain,A,NULL
+T105,Intro. to Block Chain,B,NULL
+T106,Calculus 1,A,NULL
+T106,Calculus 1,B,NULL
+T106,Differiantial Equations,A,NULL
+T106,Differiantial Equations,B,NULL
+T106,Psychology,A,NULL
+T106,Psychology,B,NULL
+T106,Micro Economics,A,NULL
+T106,Micro Economics,B,NULL
+T106,Communication For Managers,A,NULL
+T106,Communication For Managers,B,NULL
+T106,Data Sciences,A,NULL
+T106,Data Sciences,B,NULL
+T106,Intro. to Cloud Computing,A,NULL
+T106,Intro. to Cloud Computing,B,NULL
+T106,Software Testing,A,NULL
+T106,Software Testing,B,NULL
+T107,English Lab,A,NULL
+T107,English Lab,B,NULL
+T107,Digital Logic Design,A,NULL
+T107,Digital Logic Design,B,NULL
+T107,Finance and Accounting,A,NULL
+T107,Finance and Accounting,B,NULL
+T107,Numerical Methods,A,NULL
+T107,Numerical Methods,B,NULL
+T107,Operations Research,A,NULL
+T107,Operations Research,B,NULL
+T107,Computer Vision,A,NULL
+T107,Computer Vision,B,NULL
+T107,Data Science,A,NULL
+T107,Data Science,B,NULL
+T107,Internet Of Things,A,NULL
+T107,Internet Of Things,B,NULL
+T108,Intro to communication technology,A,NULL
+T108,Intro to communication technology,B,NULL
+T108,Digital Logic Design Lab,A,NULL
+T108,Digital Logic Design Lab,B,NULL
+T108,Marketing Managment,A,NULL
+T108,Marketing Managment,B,NULL
+T108,Arabic Language,A,NULL
+T108,Arabic Language,B,NULL
+T108,Directed Reading Economics,A,NULL
+T108,Directed Reading Economics,B,NULL
+T108,Computer Graphics,A,NULL
+T108,Computer Graphics,B,NULL
+T108,Informative Processing Techniques,A,NULL
+T108,Informative Processing Techniques,B,NULL
+T108,Computer Vision,A,NULL
+T108,Computer Vision,B,NULL
+T109,Database Lab,A,NULL
+T109,Database Lab,B,NULL
+T109,Informative Retrival,A,NULL
+T109,Informative Retrival,B,NULL
+T109,Design Detects Restructing,A,NULL
+T109,Design Detects Restructing,B,NULL
+T109,Compiler Construction,A,NULL
+T109,Compiler Construction,B,NULL
+T110,International HR Managment,A,NULL
+T110,International HR Managment,B,NULL
+T110,Deep Learning,A,NULL
+T110,Deep Learning,B,NULL
+T110,Audit and Control,A,NULL
+T110,Audit and Control,B,NULL

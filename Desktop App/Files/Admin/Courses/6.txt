@@ -1,0 +1,30 @@
+Computer Networks
+CS143
+3
+Computer Networks Lab
+CS144
+1
+Software Engineering
+CS145
+3
+Artificial Inteligence
+CS146
+3
+Technical and Business Writing
+CS147
+3
+Data Sciences
+CS148
+3
+Computer Vision
+CS149
+3
+Computer Graphics
+CS150
+3
+Informative Retrival
+CS151
+3
+International HR Managment
+CS152
+3

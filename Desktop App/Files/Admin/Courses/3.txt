@@ -1,0 +1,25 @@
+Data Structure
+CS117
+3
+Data Structure Lab
+CS118
+1
+Computer Organization And Assembly Language 
+CS119
+3
+Computer Organization And Assembly Language Lab
+CS120
+1
+Discrete Structure
+CS121
+3
+Psychology
+CS122
+3
+Finance and Accounting
+CS123
+3
+Marketing Managment
+CS124
+3
+

@@ -1,0 +1,30 @@
+Final Year Project 2
+CS163
+3
+Professional Issues in IT
+CS164
+3
+Data Mining 
+CS165
+3
+Web Programming
+CS166
+3
+Intro. to Block Chain
+CS167
+3
+Software Testing
+CS168
+3
+Internet Of Things
+CS169
+3
+Computer Vision
+CS170
+3
+Compiler Construction
+CS171
+3
+Audit and Control
+CS172
+3

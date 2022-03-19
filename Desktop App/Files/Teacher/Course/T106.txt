@@ -1,0 +1,4 @@
+Operating System lab
+physiology
+Probablity and statistics
+Theory of automata

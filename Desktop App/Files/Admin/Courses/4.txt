@@ -1,0 +1,27 @@
+Operating System 
+CS125
+3
+Operating System Lab
+CS126
+1
+Probability and Statistics 
+CS127
+3
+Theory of Automata
+CS128
+3
+Psychology
+CS129
+3
+Micro Economics
+CS130
+3
+Numerical Methods
+CS131
+3
+Operations Research
+CS132
+3
+Arabic Language
+CS133
+3

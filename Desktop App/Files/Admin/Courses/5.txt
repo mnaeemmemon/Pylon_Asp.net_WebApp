@@ -1,0 +1,27 @@
+Database System 
+CS134
+3
+Object Oriented Analysis Of Algorithm
+CS135 
+3
+Design and Analysis Of Algorithms
+CS136 
+3
+Computer Architecture
+CS137
+3
+Fundamentals Of Managment
+CS138
+3
+Communication For Managers
+CS139
+3
+Operations Research
+CS140
+3
+Directed Reading Economics
+CS141
+3
+Database Lab
+CS142
+1

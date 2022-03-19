@@ -1,0 +1,30 @@
+Human Computer Interaction
+CS153
+3
+Professional Issues
+CS154
+3
+Information Security
+CS155
+3
+Final Year Project 1
+CS156
+3
+Intro. to Software Project Managment
+CS157
+3
+Data Science
+CS158
+3
+Intro. to Cloud Computing
+CS159
+3
+Informative Processing Techniques
+CS160
+3
+Design Detects Restructing
+CS161
+3
+Deep Learning
+CS162
+3

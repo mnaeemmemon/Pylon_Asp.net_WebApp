@@ -1,0 +1,76 @@
+Table:	student bio
+first name - string
+last name - string
+email address - string
+cnic - integer
+dob - date
+contact no - integer
+home addresss - string
+nationality - string
+roll no - string
+cgpa - float
+degree -string
+semester - integer
+campus - string
+batch - integer
+dc - integer
+warning count - integer
+section - character
+password - string
+
+Table: Marks
+roll number - string
+course name - string
+section - character
+semester - integer
+quiz01 - float
+assignment01 - float
+mid01 - float
+quiz02 - float
+assignment02 - float
+mid02 - float
+project - float
+final - float
+grand total - float
+
+Table: Attendence
+roll number - string
+course name - string
+section - character
+semester - integer
+Date - date
+Presence - character
+
+Table: Transcript
+roll number - string
+semester - integer
+course name - string
+course grade - string
+sgpa - float
+cgpa - float
+
+Table: Course
+semester - integer
+course name - string
+
+Table: Teacher Bio
+first name - string
+last name - string
+email address - string
+teacherID - string
+cnic - integer
+dob - date
+contact no - integer
+home address - string
+nationality - string
+qualification - string
+position string
+degree - string
+campus - string
+password - string
+
+Table: Assigned courses
+teacherID - string
+course - string
+section - character
+semester - integer

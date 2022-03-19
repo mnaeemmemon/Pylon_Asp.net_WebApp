@@ -1,0 +1,4 @@
+Object Oriented Programming Lab
+Digital Logic Design Lab
+Data Structure Lab
+Database System Lab

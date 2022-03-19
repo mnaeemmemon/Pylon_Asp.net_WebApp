@@ -1,0 +1,25 @@
+Programming Fundamentals
+CS101
+3
+Programming Fundamentals Lab
+CS102
+1
+Islamiat and religious studies
+CS103
+3
+English
+CS104
+3
+Applied Physics
+CS105
+3
+Calculus 1
+CS106
+3
+English Lab
+CS107
+1
+Intro to communication technology
+CS108
+1
+
